@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ruanqizhen', // Usually your GitHub org/user name.
-  projectName: 'vanish', // Usually your repo name.
+  projectName: 'vanish_eng', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ruanqizhen/vanish/edit/main/',
+            'https://github.com/ruanqizhen/vanish_eng/edit/main/',
         },
         blog: false,
         theme: {
@@ -85,7 +85,7 @@ const config: Config = {
           label: 'Start Reading',
         },
         {
-          href: 'https://github.com/ruanqizhen/vanish',
+          href: 'https://github.com/ruanqizhen/vanish_eng',
           label: 'GitHub',
           position: 'right',
         },
