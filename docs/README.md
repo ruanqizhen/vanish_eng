@@ -72,7 +72,7 @@ His debut was hailed by mainstream literary critics as "the ultimate roar of hum
 ## Critical Acclaim
 
 > **"It writes the coldest higher-dimensional poetry inside the absurd digital landscape."**
-> — **Dr. Arthur Sterling** (Bestsending Hard Sci-Fi Novelist)
+> — **Dr. Arthur Sterling** (Best-selling Hard Sci-Fi Novelist)
 >
 > *The image of Cole Vance straddling his code-crackling scooter, Dorian Cross riding behind him, charging toward the Endpoint Tower — it possesses a visceral, poetic power. This is not merely science fiction. It is a high-energy hacking of real-world fate through the logic of computation.*
 
