@@ -23,7 +23,7 @@ graph TD
 ```
 
 - **【Programmer's Intuition (Passive)】** — Possesses a 15% probability of detecting logical loopholes in the current system or horror protocol.
-- **【Collision Detection Overflow (Active Bug Exploit)】** — Exploits the system's 1-pixel tolerance limit in physical sandbox overlap detection by artificially clustering massive numbers of entities, overloading the monster detection model until it crashes.
+- **【Hitbox Interpenetration Glitch (Collision Deadlock)】** — Exploits the physical sandbox's overlap detection by forcing massive numbers of entities into a 1-pixel gap. The physics engine attempts to continuously resolve overlapping hitboxes, resulting in an infinite physics calculation loop (CPU starvation) that forces the system to purge the overloaded entities.
 - **【Urban Courier Protocol (Conceptual Breach)】** — The delivery route operates at the highest priority tier. Any obstructing bullets, security personnel, and barriers are classified by physical law as "route obstacles to be circumvented," automatically deflecting or evading.
 - **【Arcane Lightning Mathematical Evasion】** — Uses Fourier analysis and sine-curve troughs to precisely calculate the cooldown milliseconds of the Arcane Lightning antivirus routine, displacing through zero-current gaps unscathed.
 - **【Crown Blade Administrative Backdoor】** — Ignores all Valdrian Imperial rank-suppression and karmic pressure. Directly executes "patch program" avatar Lord Malrik Vane.
@@ -59,7 +59,7 @@ graph TD
 ## 4. Ada Li — Security Expert & Memory Gatekeeper
 
 - **Role**: Cross Industries security engineer, sole student of Eleanor Vance (Cole's mother), hardware reverse-engineering specialist.
-- **Profile**: Security engineer at Cross Industries (outwardly age 25). In truth, Eleanor Vance's youngest student. Survived multiple "world reformattings," left with severe pale-blue "pixelated data scarring" covering the right side of her face and right arm. Since age seventeen, she followed Eleanor in researching the Narrative Engine's development. She has been operating a circuit-repair shop in the Old Quarter, quietly waiting for Cole's awakening. She is the crucial facilitator who helps Cole uncover the truth of his parents' disappearance and restore the core files.
+- **Profile**: Security engineer at Cross Industries (outwardly age 25). In truth, Eleanor Vance's youngest student. Survived multiple "world reformattings," left with severe pale-blue "pixelated data scarring" covering the right side of her face and right arm. Thirteen years ago, at age seventeen, she followed Eleanor in researching the Narrative Engine's development. She has been operating a circuit-repair shop in the Old Quarter, quietly waiting for Cole's awakening. She is the crucial facilitator who helps Cole uncover the truth of his parents' disappearance and restore the core files.
 - **Core Abilities**:
     - **【Physical/Data Direct Interface】** — Her semi-pixelated right arm can be plugged directly into a server's physical port, allowing her body to serve as a medium for direct confrontation with anomalous data streams.
     - **【Semantic Decompression Algorithm】** — Capable of perfectly restoring original images from Engine-compressed substrate fragments (such as photos and residual chip data) using semantic encoding logic.
@@ -72,7 +72,7 @@ graph TD
 - **Profile**: Cole's coworker from his big-tech days. Purple messy hair, always sucking on a lollipop, anti-static wristband on her wrist, types at blistering speed, owns a calico cat named "Bug." Has been monitoring Grayharbor since the first anomalous data-fissure appeared three months ago, waiting for Cole's call for help. Hand-soldered a dimension-cracking decryption chip she named "Old Max" (after her late mentor). After the chip burned out in Ch20, she replaced it with a new one called "Cliff" (named after Cliffside Road, which also homophonically links to Cole's childhood nickname).
 - **Core Abilities**:
     - **【Hand-Soldered Dimension-Crack Decryption Chip】** — Reverse-engineered the system, embedding a chip into Cole's phone that projects onto his retina a full parameter grid of the current environment (animation frames, collision gaps, HP durability, etc.).
-    - **【UDP Flood Port Bombardment】** — Expert at paralyzing specter-screens' judgment pipelines with high-frequency data packets, carving out safe zones.
+    - **【Algorithmic Complexity Bombardment】** — Expert at paralyzing specter-screens' judgment pipelines by injecting worst-case O(n^2) logic bombs via localized debug bridges, crashing them through CPU exhaustion.
 
 ---
 
@@ -85,12 +85,12 @@ graph TD
 ## 7. Old Pete — The Messenger Bridging Two Generations
 
 - **Role**: Former delivery courier, the crucial link connecting Cole to his parents.
-- **Profile**: Rode for fifteen years. Fifteen years ago, while delivering BBQ pulled pork to Room 307's Eleanor Vance, he witnessed her holding the infant Cole, crying. From then on, he quietly watched over them, writing in his notebook: "Room 307, Ms. Eleanor. From now on, no matter how far, I'll deliver this order myself." Before vanishing into the rainy night, he left his delivery box with the restaurant owner, saying, "Someone will come for it someday." The notebook was later found by Vera Ashworth — with a line appended afterward in different handwriting: "I'm sorry I couldn't make it to the end."
-- **Core Contribution**: The delivery box contained a fifteen-year-old order receipt (bearing Eleanor Vance and Thomas Vance's signatures), which became the key totime-shift back ten years in Ch18.
+- **Profile**: Rode for over thirty years. Thirty years ago, while delivering BBQ pulled pork to Room 307's Eleanor Vance, he witnessed her holding the infant Cole, crying. From then on, he quietly watched over them, writing in his notebook: "Room 307, Ms. Eleanor. From now on, no matter how far, I'll deliver this order myself." Before vanishing into the rainy night ten years ago, he left his delivery box with the restaurant owner, saying, "Someone will come for it someday." The notebook was later found by Vera Ashworth — with a line appended afterward in different handwriting: "I'm sorry I couldn't make it to the end."
+- **Core Contribution**: The delivery box contained a ten-year-old order receipt (bearing Eleanor Vance and Thomas Vance's signatures), which became the key to time-shift back ten years in Ch18.
 
 ## 8. Eleanor Vance & Thomas Vance — The Creator Parents
 
-- **Eleanor Vance**: Cole's mother. Core creator of the Narrative Engine. Used a typewriter to write stories that rewrote reality for five-year-old Cole, who lay dying. After the Engine went rogue, she faked her disappearance and hid in an underground lab. During the lab fire ten years ago, she pressed the Narrative Pen into Cole's hand: "Go write an ending that belongs to you." The barcode mark on her left wrist is identical to Cole's — the last layer of protection she left for her son.
+- **Eleanor Vance**: Cole's mother. Core creator of the Narrative Engine. Used a typewriter to write stories that rewrote reality twenty-five years ago for five-year-old Cole, who lay dying. After the Engine went rogue, she faked her disappearance and hid in an underground lab. During the lab fire ten years ago, she pressed the Narrative Pen into twenty-year-old Cole's hand: "Go write an ending that belongs to you." The barcode mark on her left wrist is identical to Cole's — the last layer of protection she left for her son.
 - **Thomas Vance**: Cole's father. Co-developed the Engine with Eleanor. In memory, warm and simple; in the lab, hair a bird's nest of chaos, a researcher racing code against death. Turned back in the flames to block Vera's pursuit.
 - **Core Contribution**: Creators of the Narrative Engine. Ch19time-shift reveals the truth. Ch29 text message — "Congratulations on beating the game, son" — proves they still exist in some dimension.
 

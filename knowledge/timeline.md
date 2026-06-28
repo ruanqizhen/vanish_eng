@@ -16,7 +16,7 @@
 - **Ch04: Don't Step on My HP Bar**
     - **Key Events**: The two fall into a sub-sandbox overlaid with the "Gamified Stat Law." They encounter an elite monster generated from system-data-modeling Cole's former tyrannical boss, Gerald Mason. Cole deduces through analysis that in this world, the criterion for "party formation" is not a contract — it is *trust*.
 - **Ch05: A Programmer's Micro-Tech**
-    - **Key Events**: Cole locks terrain detection with a 1-pixel-width exploit, using the "collision volume overflow" loophole to bug-crash over 300 "discarded programmer remnant" monsters. He receives a dropped golden imperial edict.
+    - **Key Events**: Cole locks terrain detection with a 1-pixel-width exploit, using a "collision deadlock glitch" to force the physics engine to CPU-starve and purge over 300 "discarded programmer remnant" monsters. He receives a dropped golden imperial edict.
 - **Ch06: The Inquisitor in the Iron Citadel**
     - **Key Events**: Spacetime forcibly updates. Cole is transported to the "Valdrian Empire's Iron Citadel," identified as a capital rebel. Dorian becomes the highest-ranking Imperial Inquisitor Commander, wielding absolute power over life and death. The moment their fingertips touch — a red thread flickers into view.
 
@@ -36,7 +36,7 @@
 - **Ch11: Red Thread & Stone Tablet**
     - **Key Events**: Cole and Ada Li — the Cross Industries security engineer also present — are flagged as BUG threads by the algorithm, granting them temporary immunity to immediate death upon being named. Cole exploits this to search for the Quicksort boundary pivot.
 - **Ch12: Locking the Specter in an Infinite Loop**
-    - **Key Events**: Ada Li and Rust assist remotely by penetrating the LAN debugging port. Cole applies binary-search hash intervention and physically injects pseudocode attacks (UDP flood empty-packet overflow) at the specter-screen, causing the horror screen to instantaneously crash in a dead loop. Cole promptly consumes the **Alchemical Kernel** condensed from the horror's discarded data.
+    - **Key Events**: Ada Li and Rust assist remotely by penetrating the LAN debugging port. Cole applies binary-search hash intervention and physically injects an Algorithmic Complexity payload via a localized debug bridge, feeding the specter's Quicksort algorithm a perfectly reverse-ordered dataset. This triggers an O(n^2) worst-case CPU exhaustion crash. Cole promptly consumes the **Alchemical Kernel** condensed from the horror's discarded data.
 
 ---
 
