@@ -20,6 +20,11 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+  // Trailing slash: Cloudflare serves directory-style URLs with a trailing
+  // slash, so canonical/sitemap URLs must match (fixes Search Console
+  // "Alternate page with proper canonical tag").
+  trailingSlash: true,
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ruanqizhen', // Usually your GitHub org/user name.
